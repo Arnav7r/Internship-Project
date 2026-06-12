@@ -1,2 +1,2 @@
 # Internship-Project CNN
-Tomato Dataset
+Project using Mobilenetv2 on tomato dataset
